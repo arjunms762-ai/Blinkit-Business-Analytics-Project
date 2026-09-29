@@ -53,6 +53,4 @@ Power BI was used to create an interactive dashboard containing KPI cards, chart
 ### 7.  Insights and Reporting
 The final results from Python, SQL, Power Query, DAX, and Power Bl were combined to identify meaningful business insights and present them through an interactive analytical dashboard.
 
-### Power BI Dashboard
-
-![Power BI Dashboard](images/dashboard.png)
+![Dashboard ](link-to-image)
