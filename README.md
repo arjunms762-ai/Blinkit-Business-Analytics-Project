@@ -53,4 +53,4 @@ Power BI was used to create an interactive dashboard containing KPI cards, chart
 ### 7.  Insights and Reporting
 The final results from Python, SQL, Power Query, DAX, and Power Bl were combined to identify meaningful business insights and present them through an interactive analytical dashboard.
 
-![Dashboard ](link-to-image)
+![Dashboard ](https://github.com/arjunms762-ai/Blinkit-Business-Analytics-Project/blob/main/1_7x_V0egUg55vaRXcnANSHw.webp)
