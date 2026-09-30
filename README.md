@@ -24,7 +24,6 @@ The Blinkit Business Analytics Project aimed to analyze grocery sales data to id
 
 ## Steps
 
-Below are the key steps taken in the VAPT process:
 
 ### 1. Data Collection and Understanding
 The Blinkit grocery sales dataset was collected and examined to understand the data structure, business fields, and analytical requirements.
